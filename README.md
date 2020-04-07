@@ -1,2 +1,2 @@
-# Stack_RocketSeat
+# Starter_RocketSeat
 JSHunt
