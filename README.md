@@ -1,2 +1,1 @@
-# Starter_RocketSeat
-JSHunt
+Aplicação desenvolvida durante o curso Starter da Rocketseat.
